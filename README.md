@@ -1,5 +1,5 @@
 # Learn Cardano
-50 Twitter optimized info cards about Cardano. 
+64 Twitter optimized info cards about Cardano. 
 
 ## Original 50 Cards
   - CARDANO_TWITTER_BLUE.zip - Cards in Blue
